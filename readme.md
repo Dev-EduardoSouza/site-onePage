@@ -1,6 +1,7 @@
 # Website: One Page Project
 
 Este projeto foi desenvolvido durante um curso no SENAC, com foco na criação de um site responsivo utilizando tecnologias front-end modernas.
+Um caso especico para uma empresa de instalação e manutenção de ar-condicionados e o projeto visou resolver os requisitos desse caso.
 
 ## Tecnologias Utilizadas
 
